@@ -1,0 +1,30 @@
+{
+  "name": "orclapex-websocket-server",
+  "version": "1.0.0",
+  "description": "WebSocket Server (transform HTTP into WebSocket)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mennooo/orclapex-websocket-server.git"
+  },
+  "author": "M. Hoogendijk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mennooo/orclapex-websocket-server/issues"
+  },
+  "homepage": "https://github.com/mennooo/orclapex-websocket-server#readme",
+  "dependencies": {
+    "basic-auth": "^1.0.4",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "socket.io": "^1.4.8",
+    "winston": "^2.2.0"
+  },
+  "devDependencies": {
+    "app-module-path": "^2.0.0"
+  }
+}

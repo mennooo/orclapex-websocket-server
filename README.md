@@ -1,2 +1,5 @@
-# websocket_pkg
-Oracle PL/SQL Package to work with websockets 
+# orclapex-websocket-server
+
+Node.js server for WebSocket protocol
+
+Has a REST API to convert from HTTP to WebSocket.

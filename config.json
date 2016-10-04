@@ -1,0 +1,13 @@
+{
+  "websocket": {
+    "port": 4000,
+    "secret": "secret.secret.secret"
+  },
+  "REST": {
+    "port": 4001,
+    "authentication": {
+      "username": "demo",
+      "password": "demo.demo.demo"
+    }
+  }
+}
