@@ -1,4 +1,4 @@
-# orclapex-websocket-server
+# orclapex-websocket-server (IN DEVELOPMENT!!!)
 
 Node.js server for WebSocket protocol
 
